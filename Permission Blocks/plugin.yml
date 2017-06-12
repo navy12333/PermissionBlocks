@@ -1,0 +1,9 @@
+name: Pblocks
+description: Boxing plugin made by navy12333
+author: navy12333
+website: https://www.youtube.com/user/TheNavyTheKid
+commands:
+  pblocks:
+    description: Contains information about the plugin.
+version: 2.4
+main: me.navy12333.PBlocks.PBlocksMain
